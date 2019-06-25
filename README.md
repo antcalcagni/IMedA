@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/131989169.svg)](https://zenodo.org/badge/latestdoi/131989169)
+
+
 # IMedA
 Multiple mediation analysis for interval-valued data
 
